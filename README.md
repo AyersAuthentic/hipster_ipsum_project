@@ -1,0 +1,1 @@
+# Vanilla Javascript lorem ipsum generator application.
